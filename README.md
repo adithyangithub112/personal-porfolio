@@ -124,3 +124,7 @@ The project has a well-organized file structure with separate directories for di
     ├── owl-carousel/
     └── popup/
 ```
+
+screenshot:
+<img width="1888" height="896" alt="Screenshot 2025-09-24 131426" src="https://github.com/user-attachments/assets/4419d58c-5fc9-46b8-ba12-fb50af6e9074" />
+
